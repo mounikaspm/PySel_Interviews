@@ -1,0 +1,39 @@
+1638617362694	geckodriver	INFO	Listening on 127.0.0.1:49918
+1638617365782	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49919" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilevkL6d0"
+1638617367246	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilevkL6d0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49919/devtools/browser/a22a09af-94df-43cb-8f18-6e554f79252e
+1638617371585	Marionette	INFO	Listening on port 49925
+1638617371753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval line 7280 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638618192261	Marionette	INFO	Stopped listening on port 49925
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rust_mozprofilezsWflK"
+1638618053473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilezsWflK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50066/devtools/browser/f306c63c-da7e-442f-b573-04d855b0feba
+1638618057144	Marionette	INFO	Listening on port 50071
+1638618057520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval line 1626 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638618190591	Marionette	INFO	Stopped listening on port 50071
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rust_mozprofileQ6YQIY"
+1638618135593	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileQ6YQIY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50146/devtools/browser/e9cb543e-3cb1-4dd8-a43a-f11ce01a62b6
+1638618139585	Marionette	INFO	Listening on port 50151
+1638618139858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval line 2790 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638632636362	Marionette	INFO	Stopped listening on port 50151
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

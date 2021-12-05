@@ -1,0 +1,132 @@
+Invalid port. Exiting...
+1638278128883	geckodriver	INFO	Listening on 127.0.0.1:61039
+1638278132004	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61040" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilenGgOUV"
+1638278133779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilenGgOUV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61040/devtools/browser/5ade9310-f325-48aa-9a2b-bd5babc90f58
+1638278138110	Marionette	INFO	Listening on port 61045
+1638278138525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70015, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70015, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70015, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70015, line 488: unreachable code after return statement
+1638278444800	Marionette	INFO	Stopped listening on port 61045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638355092365	geckodriver	INFO	Listening on 127.0.0.1:59712
+1638355095424	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59713" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile34jZBH"
+1638355096257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile34jZBH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59713/devtools/browser/239f60b1-cbb3-4fd4-9f59-c7b6aaece519
+1638355099059	Marionette	INFO	Listening on port 59718
+1638355099153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638355106024	Marionette	INFO	Stopped listening on port 59718
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638355324681	geckodriver	INFO	Listening on 127.0.0.1:59815
+1638355327771	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59816" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilewIz9tl"
+1638355328134	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilewIz9tl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59816/devtools/browser/d50a9ab0-08e4-47d7-adca-6bc0337d67f2
+1638355330328	Marionette	INFO	Listening on port 59821
+1638355330477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638355342726	Marionette	INFO	Stopped listening on port 59821
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638356170371	geckodriver	INFO	Listening on 127.0.0.1:60018
+1638356173432	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60019" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile1iIXyx"
+1638356173800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile1iIXyx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60019/devtools/browser/15de2708-7744-48aa-9bee-07a5bf0486ae
+1638356175835	Marionette	INFO	Listening on port 60024
+1638356176116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638356192679	Marionette	INFO	Stopped listening on port 60024
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638356235936	geckodriver	INFO	Listening on 127.0.0.1:60132
+1638356239024	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60133" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileN1ONlk"
+1638356239379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileN1ONlk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60133/devtools/browser/0206a835-62a7-478a-b53c-69d8a5ef9a0f
+1638356241551	Marionette	INFO	Listening on port 60138
+1638356241719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638356253671	Marionette	INFO	Stopped listening on port 60138
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638356344895	geckodriver	INFO	Listening on 127.0.0.1:60242
+1638356347984	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60243" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileoMHVKb"
+1638356348330	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileoMHVKb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60243/devtools/browser/d746df61-c771-4933-bc10-c0a5d8d3c058
+1638356350536	Marionette	INFO	Listening on port 60248
+1638356350659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638356362622	Marionette	INFO	Stopped listening on port 60248
+1638356445347	geckodriver	INFO	Listening on 127.0.0.1:60344
+1638356448437	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60345" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilevhbLoJ"
+1638356448766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilevhbLoJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60345/devtools/browser/b6445648-03ac-49a9-bcd9-f92d9ecc41db
+1638356450946	Marionette	INFO	Listening on port 60350
+1638356451114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638356521924	Marionette	INFO	Stopped listening on port 60350
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638356694768	geckodriver	INFO	Listening on 127.0.0.1:60505
+1638356697849	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60506" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile4KCVtv"
+1638356698173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile4KCVtv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60506/devtools/browser/9bd68e9f-ce42-4d94-8992-0f880ce687d8
+1638356700380	Marionette	INFO	Listening on port 60511
+1638356700529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638356712151	Marionette	INFO	Stopped listening on port 60511
+1638356734461	geckodriver	INFO	Listening on 127.0.0.1:60606
+1638356737521	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60607" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileRpVlRL"
+1638356737912	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileRpVlRL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60607/devtools/browser/2de7ddd5-f9ed-4d90-b757-89ce6a4417aa
+1638356739894	Marionette	INFO	Listening on port 60612
+1638356740216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638356752706	Marionette	INFO	Stopped listening on port 60612

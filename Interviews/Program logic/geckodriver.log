@@ -1,0 +1,359 @@
+1638562511878	geckodriver	INFO	Listening on 127.0.0.1:61991
+1638562514955	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61992" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile71YBqD"
+1638562515342	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile71YBqD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61992/devtools/browser/509ee2e8-0fbd-4c4f-9d78-ec06424527b4
+1638562518463	Marionette	INFO	Listening on port 61999
+1638562518653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638562669793	Marionette	INFO	Stopped listening on port 61999
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rust_mozprofileWSyNT7"
+1638562643873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileWSyNT7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62155/devtools/browser/f6427741-5bb8-4ce0-a8f7-6650153e0903
+1638562646171	Marionette	INFO	Listening on port 62161
+1638562646238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638562665254	Marionette	INFO	Stopped listening on port 62161
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638562677199	geckodriver	INFO	Listening on 127.0.0.1:62273
+1638562680272	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62274" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilew2gJAb"
+1638562680621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilew2gJAb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62274/devtools/browser/76eb82f6-b52e-46b7-8bac-3368e7d9cddc
+1638562683306	Marionette	INFO	Listening on port 62280
+1638562683481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638562819253	Marionette	INFO	Stopped listening on port 62280
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "62401" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile6yQ1sN"
+1638562738255	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile6yQ1sN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62401/devtools/browser/b625de25-da19-4b63-9f34-fc99cb4c9395
+1638562740228	Marionette	INFO	Listening on port 62407
+1638562740604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638562816421	Marionette	INFO	Stopped listening on port 62407
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638562900925	geckodriver	INFO	Listening on 127.0.0.1:62591
+1638562903993	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62592" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilecd8xTm"
+1638562904321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilecd8xTm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62592/devtools/browser/9c7899ab-d8c0-4c87-9e76-75b6e0427f31
+1638562906415	Marionette	INFO	Listening on port 62598
+1638562906658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638562944745	Marionette	INFO	Stopped listening on port 62598
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638563126984	geckodriver	INFO	Listening on 127.0.0.1:62812
+1638563130058	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62813" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilexCJTAT"
+1638563130390	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilexCJTAT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62813/devtools/browser/4087c6d0-c03f-481f-9139-e9cc3f18e33f
+1638563132505	Marionette	INFO	Listening on port 62819
+1638563132744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638563639622	Marionette	INFO	Stopped listening on port 62819
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rust_mozprofile0sio2h"
+1638563176269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile0sio2h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62933/devtools/browser/d8496b1e-e1ba-4790-8e44-47511c941e52
+1638563178629	Marionette	INFO	Listening on port 62939
+1638563179124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/fonts/fontawesome-free-5.11.1/css/all.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_skeleton.css?v=V3.1.70016 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_blocks.css?v=V3.1.70016 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/community/icon.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/css/counteverest/counteverest.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/manage-elements.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/admin/lib/bootstrap-sweetalert/sweetalert.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://s3.amazonaws.com/contents.newzenler.com/3072/css/brand.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://fonts.googleapis.com/css?family=Catamaran without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/fonts/fontawesome-free-5.11.1/css/all.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_skeleton.css?v=V3.1.70016 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_blocks.css?v=V3.1.70016 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/community/icon.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/css/counteverest/counteverest.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/manage-elements.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/admin/lib/bootstrap-sweetalert/sweetalert.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://s3.amazonaws.com/contents.newzenler.com/3072/css/brand.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://fonts.googleapis.com/css?family=Catamaran without a browsingContextID set
+1638563334336	Marionette	INFO	Stopped listening on port 62939
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638563368018	geckodriver	INFO	Listening on 127.0.0.1:63129
+1638563371095	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63130" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileWmSMGR"
+1638563371417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileWmSMGR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63130/devtools/browser/64f24852-20a7-43b0-b1a4-098c21881230
+1638563373421	Marionette	INFO	Listening on port 63136
+1638563373795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/fonts/fontawesome-free-5.11.1/css/all.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_skeleton.css?v=V3.1.70016 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_blocks.css?v=V3.1.70016 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/community/icon.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/css/counteverest/counteverest.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/manage-elements.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/admin/lib/bootstrap-sweetalert/sweetalert.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://s3.amazonaws.com/contents.newzenler.com/3072/css/brand.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://fonts.googleapis.com/css?family=Catamaran without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/fonts/fontawesome-free-5.11.1/css/all.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_skeleton.css?v=V3.1.70016 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/bundles/Zenler/css/Zenler_blocks.css?v=V3.1.70016 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/community/icon.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/elements/css/counteverest/counteverest.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/manage-elements.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://d235vmrai5heq2.cloudfront.net/css/admin/lib/bootstrap-sweetalert/sweetalert.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://s3.amazonaws.com/contents.newzenler.com/3072/css/brand.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://fonts.googleapis.com/css?family=Catamaran without a browsingContextID set
+1638563505962	Marionette	INFO	Stopped listening on port 63136
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "63281" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilePws85O"
+1638563460661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilePws85O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63281/devtools/browser/0b39e2b5-8dcd-4695-b821-68de56381001
+1638563463196	Marionette	INFO	Listening on port 63287
+1638563463526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638563477444	Marionette	INFO	Stopped listening on port 63287
+1638563523050	geckodriver	INFO	Listening on 127.0.0.1:63411
+1638563526112	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63412" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileM8zXNS"
+1638563526609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileM8zXNS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63412/devtools/browser/4dbc5e90-4bce-4240-8293-facda8dc8952
+1638563530354	Marionette	INFO	Listening on port 63433
+1638563530448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.70016, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.70016, line 488: unreachable code after return statement
+1638563544217	Marionette	INFO	Stopped listening on port 63433
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638567546320	geckodriver	INFO	Listening on 127.0.0.1:64222
+1638567549393	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64223" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilehlvL1Q"
+1638567550354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilehlvL1Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64223/devtools/browser/140f8cf9-6305-46c0-a127-bf98223a3594
+1638567552837	Marionette	INFO	Listening on port 64230
+1638567553131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638567581797	Marionette	INFO	Stopped listening on port 64230
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638567629250	geckodriver	INFO	Listening on 127.0.0.1:64333
+1638567632333	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64334" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilePrUHre"
+1638567632697	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilePrUHre\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64334/devtools/browser/db815236-ed42-4791-936c-bfab20010fe0
+1638567634752	Marionette	INFO	Listening on port 64340
+1638567635022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638567770860	Marionette	INFO	Stopped listening on port 64340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "64447" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileuak6j6"
+1638567706516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileuak6j6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64447/devtools/browser/bcd10f39-6e86-413e-9c15-379b4805ac9c
+1638567708609	Marionette	INFO	Listening on port 64453
+1638567708865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638567767098	Marionette	INFO	Stopped listening on port 64453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638567847144	geckodriver	INFO	Listening on 127.0.0.1:64588
+1638567850228	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64589" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofiletpET9E"
+1638567850565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofiletpET9E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64589/devtools/browser/176ad802-0f8b-4251-91a9-5dd2a3c7b215
+1638567852661	Marionette	INFO	Listening on port 64595
+1638567852902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638568080434	Marionette	INFO	Stopped listening on port 64595
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "64677" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilec6ySLF"
+1638567885072	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilec6ySLF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64677/devtools/browser/570b96e9-54de-4ce8-82dc-9d191e63dfa0
+1638567887017	Marionette	INFO	Listening on port 64683
+1638567887443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638568078735	Marionette	INFO	Stopped listening on port 64683
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "64770" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileQ9vNlI"
+1638567923238	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileQ9vNlI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64770/devtools/browser/de9ae17a-7b83-4a53-b4c4-53d12c45fb3d
+1638567925755	Marionette	INFO	Listening on port 64776
+1638567926105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638568077260	Marionette	INFO	Stopped listening on port 64776
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rust_mozprofiled1WOJa"
+1638568012461	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofiled1WOJa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64885/devtools/browser/c539a1f8-a61f-4dba-824a-90fdb4aab552
+1638568014542	Marionette	INFO	Listening on port 64892
+1638568014784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638568075494	Marionette	INFO	Stopped listening on port 64892
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "64978" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilePA7K8G"
+1638568053696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilePA7K8G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64978/devtools/browser/3109ba40-72a8-45c9-824a-885d29735652
+1638568056081	Marionette	INFO	Listening on port 64985
+1638568056566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638568073178	Marionette	INFO	Stopped listening on port 64985
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638568215722	geckodriver	INFO	Listening on 127.0.0.1:65139
+1638568218801	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65140" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileiEy1Td"
+1638568219154	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileiEy1Td\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65140/devtools/browser/685568e3-8545-457e-9532-6451699f3347
+1638568221297	Marionette	INFO	Listening on port 65146
+1638568221488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638568316529	Marionette	INFO	Stopped listening on port 65146
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rust_mozprofileeWbqyQ"
+1638568271529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileeWbqyQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65236/devtools/browser/cc75a0c7-bff7-4c72-b282-bac83925dc05
+1638568273479	Marionette	INFO	Listening on port 65242
+1638568273894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638568313556	Marionette	INFO	Stopped listening on port 65242
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638568494080	geckodriver	INFO	Listening on 127.0.0.1:65422
+1638568497132	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65423" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilexGpVxp"
+1638568497519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilexGpVxp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65423/devtools/browser/86ce87bb-0be4-4b16-aae5-9fb384ff82d3
+1638568499695	Marionette	INFO	Listening on port 65429
+1638568499837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638568548277	Marionette	INFO	Stopped listening on port 65429
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rust_mozprofileqXHdhM"
+1638568543069	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileqXHdhM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65516/devtools/browser/fde16ffa-dc0b-4ca7-96b2-d3a3251a70c5
+1638568545335	Marionette	INFO	Listening on port 65522
+1638568545423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638569158231	Marionette	INFO	Stopped listening on port 65522
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileWeh1zq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49235/devtools/browser/c1de730a-d611-4c82-bf64-0fffff151869
+1638568842031	Marionette	INFO	Listening on port 49240
+1638568842455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1638569156889	Marionette	INFO	Stopped listening on port 49240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "49310" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileCbVgo0"
+1638568892484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileCbVgo0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49310/devtools/browser/25664fee-db0d-4a28-becc-20f77a9f748d
+1638568894526	Marionette	INFO	Listening on port 49315
+1638568894852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638569150867	Marionette	INFO	Stopped listening on port 49315
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "49383" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilesjhnhI"
+1638568926785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofilesjhnhI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49383/devtools/browser/bd2c7cc5-003d-4f27-83e2-9b55ea6ad1e9
+1638568929008	Marionette	INFO	Listening on port 49388
+1638568929151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638569152866	Marionette	INFO	Stopped listening on port 49388
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "49477" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileJpx89b"
+1638569011539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileJpx89b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49477/devtools/browser/ef1520f2-6dcb-43f8-9cb7-a6eb2bf02d8c
+1638569013765	Marionette	INFO	Listening on port 49483
+1638569013880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638569154407	Marionette	INFO	Stopped listening on port 49483
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "49562" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileyGMaCd"
+1638569117842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofileyGMaCd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49562/devtools/browser/ddec08dd-dd7e-40e7-a27e-bb7d2f2603e2
+1638569120310	Marionette	INFO	Listening on port 49567
+1638569120693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638569155738	Marionette	INFO	Stopped listening on port 49567
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638569571617	geckodriver	INFO	Listening on 127.0.0.1:49745
+1638569574698	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49746" "-no-remote" "-profile" "C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile0BV3vT"
+1638569575032	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mouni\\AppData\\Local\\Temp\\rust_mozprofile0BV3vT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49746/devtools/browser/d66d5a7e-1712-4d24-a88e-64dfa11cbea2
+1638569576984	Marionette	INFO	Listening on port 49753
+1638569577380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638569711241	Marionette	INFO	Stopped listening on port 49753
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
